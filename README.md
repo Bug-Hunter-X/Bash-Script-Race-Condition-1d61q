@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet easily overlooked, error in shell scripting: race conditions.  The `bug.sh` script showcases the problem, while `bugSolution.sh` provides a corrected version.  This example highlights the importance of careful process synchronization when dealing with shared resources like files in concurrent shell scripts.
